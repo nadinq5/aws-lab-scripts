@@ -1,3 +1,8 @@
+# Created an EBS volume.  
+# Attached and mounted an EBS volume to an EC2 instance.  
+# Created a snapshot of an EBS volume.  
+# Created an EBS volume from a snapshot.
+
 #!/usr/bin/python3
 import boto3
 import time
